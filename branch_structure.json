@@ -1,0 +1,18 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "feat/avatar-component",
+    "main",
+    "origin"
+  ],
+  "parent": {
+    "feat/avatar-component": "main",
+    "main": null,
+    "origin": "main"
+  },
+  "order": [
+    "main",
+    "feat/avatar-component",
+    "origin"
+  ]
+}
